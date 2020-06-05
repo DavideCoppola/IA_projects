@@ -1,0 +1,1 @@
+Esempio di classificazione di funghi del dataset "mushroom_data_all.csv", utilizzando la libreria sklearn. Per la prova viene utilizzato un modello scelto in base al tipo di clasificazione, poi vengono ripresoi anche altri modelli per far vedere che in linea di principio il risultato è sempre lo stesso
