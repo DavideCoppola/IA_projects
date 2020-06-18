@@ -1,0 +1,1 @@
+Creazione di un classificatore per predire i clienti che vogliono andarsene per cambiare offerta telefonica. Sono stati utilizzati i modelli che hanno dato migliori risuultati sulle prove di "brutta copia". E' stata provata anche una rete neurale che non ha dato risultati migliori dei classificatori classici.
