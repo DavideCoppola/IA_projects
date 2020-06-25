@@ -1,0 +1,1 @@
+Directory della chalenge finale per l'esame. Sono stati utilizzati più classificatori per il nostro scopo ma ne è stato scelto solamente uno come il modello da utilizzare per classificare il testset finale. Tutti i passaggi sono descritti sul Training Notebook, mentre lo Split Notebook serve solamente per effettuare il lo split train/test.
